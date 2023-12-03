@@ -1,0 +1,4 @@
+# codeship-steps.yml
+- name: Test
+  service: app
+  command: npm test

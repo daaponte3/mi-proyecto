@@ -1,0 +1,4 @@
+# codeship-services.yml
+app:
+  build:
+    dockerfile_path: ./Dockerfile
