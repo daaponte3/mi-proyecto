@@ -3,4 +3,12 @@
   <groupId>com.ejemplo</groupId>
   <artifactId>mi-proyecto</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  
+  <dependencies>
+	 <dependency>
+	    <groupId>junit</groupId>
+	    <artifactId>junit-dep</artifactId>
+	    <version>4.8.2</version>
+	</dependency>
+</dependencies>
 </project>
