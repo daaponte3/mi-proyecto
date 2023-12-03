@@ -14,6 +14,18 @@ public class AppTest {
 	public void testApp() {
 		assertTrue(true);
 	}
+	
+	@Test
+    public void testMain() {
+        // Configuración
+        // No hay ninguna lógica para probar en el método main de App
+
+        // Ejecución
+        App.main(new String[]{});
+
+        // Verificación
+        // Podemos verificar la salida en la consola, pero eso es más una tarea de prueba de integración
+    }
 
 	@Test
 	public void testMainMethod() {
